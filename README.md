@@ -13,11 +13,8 @@ de Aplicaciones Móviles* con Room + Jetpack Compose.
   compilarla y las pruebas incluidas.
 - **[`Documentación/`](Documentación/)** — Reporte de la actividad (Word y
   PDF) con la descripción de cada requisito cumplido.
-- **`tareas-room-compose/`** — Pendiente: esta carpeta quedó como una
-  referencia rota a otro repositorio (sin archivo `.gitmodules` ni URL
-  registrada), por lo que al clonar este repositorio aparece vacía. Quien
-  la haya creado necesita subir su contenido real aquí (o indicar la URL
-  del repositorio original) para que deje de estar vacía.
+- **[`tareas-room-compose/`](tareas-room-compose/)** — App de lista de tareas: Proyecto completo desarrollado con Jetpack Compose y Room para la gestión y persistencia de tareas locales. Incluye la interfaz de usuario moderna, arquitectura recomendada y el manejo de la base de datos local.
+
 
 ## Cómo compilar la app de notas
 
