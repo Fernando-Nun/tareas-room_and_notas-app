@@ -125,4 +125,5 @@ pantalla).
 
 Proyecto desarrollado en equipo (ver `git log`); el reporte de la actividad,
 con el detalle de cada requisito, está en
-[`docs/Actividad4_NotasApp_Reporte.docx`](docs/Actividad4_NotasApp_Reporte.docx).
+[`Documentación/Actividad 4 Tec (App Movil).docx`](../Documentación/Actividad%204%20Tec%20(App%20Movil).docx)
+(y su versión en PDF junto a él).
